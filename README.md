@@ -1,6 +1,8 @@
 # CheckIP-
 CheckIP For Symbian S60 written in PyS60(Python For Symbian S60 )
+
 CheckIP by gauravssnl
+
 Features :
 - Check Local IP
 - Check Internet IP
